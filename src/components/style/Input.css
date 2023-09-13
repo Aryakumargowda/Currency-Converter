@@ -1,0 +1,30 @@
+.input_frame{
+    background: #a5a3a3;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    padding: 1em;
+    color: #543f1d;
+    margin: .7em;
+    border-radius: .8em;
+    box-shadow: 02px 05px 16px #000000;
+}
+
+
+
+input,select{
+    border: none;
+    height: 2.2em;
+    background: #a5a3a3;
+}
+
+.input_top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .4em;
+}
+
+.input_bot{
+    display: flex;
+    justify-content: space-between;
+}
